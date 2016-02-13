@@ -1,0 +1,1 @@
+coffee C:\semanager\manager\stop.coffee asteroids
